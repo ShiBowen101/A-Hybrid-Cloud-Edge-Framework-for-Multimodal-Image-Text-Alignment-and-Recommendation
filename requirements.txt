@@ -1,0 +1,9 @@
+flask                     3.0.3
+numpy                     1.26.4
+requests                  2.32.3
+safetensors               0.4.5
+scikit-learn              1.5.2
+sentence-transformers     5.1.0
+torch                     2.4.1
+tqdm                      4.66.5
+transformers              4.55.4
