@@ -1,0 +1,2 @@
+# A-Hybrid-Cloud-Edge-Framework-for-Multimodal-Image-Text-Alignment-and-Recommendation
+A WeChat Mini-Program implementing an anthropomorphic AI agent, "Keling." The system leverages cloud-based LLMs and a custom prompt management layer to facilitate synchronized multi-party conversations. By integrating stochastic response modeling, the project simulates the non-deterministic dynamics of natural group interactions.
